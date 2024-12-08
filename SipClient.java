@@ -1,8 +1,5 @@
-package sipsimplecs;/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+package sipsimplecs;
+
 
 import javax.media.rtp.event.ReceiveStreamEvent;
 import javax.sdp.MediaDescription;
@@ -41,7 +38,7 @@ public class SipClient extends JFrame implements SipListener {
     private AddressFactory addressFactory;
     private ListeningPoint listeningPoint;
     private Properties properties;
-    private TP_RTP rtpSession = new TP_RTP();
+    private RTPCode rtpSession = new RTPCode();
     private String transport;
 
     // Local configuration
