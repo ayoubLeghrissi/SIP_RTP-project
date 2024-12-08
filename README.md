@@ -1,1 +1,3 @@
-the class to run is :   SipClientUI.java
+NB :
+  the main class is :                   SipClientUI
+
