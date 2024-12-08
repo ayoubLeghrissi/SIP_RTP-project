@@ -29,7 +29,7 @@ import javax.media.rtp.event.ReceiveStreamEvent;
  *
  * @author B. slimane
  */
-public class TP_RTP extends javax.swing.JFrame implements ReceiveStreamListener {
+public class RTPCode extends javax.swing.JFrame implements ReceiveStreamListener {
 
 
     String remoteIP; // Sink IP
