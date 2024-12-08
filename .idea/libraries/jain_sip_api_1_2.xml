@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jain-sip-api-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SIPserver/SIPserver/serSIP/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SIPserver/SIPserver/serSIP/jain-sip-tck-1.2.1111.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SIPserver/SIPserver/serSIP/jain-sip-sdp-1.2.1111.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SIPserver/SIPserver/serSIP/jain-sip-ri-1.2.1111.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SIPserver/SIPserver/serSIP/jain-sip-api-1.2.jar!/" />
+      <root url="jar://D:/was-in-C/TP_RTP88/TP_RTP/dist/lib/jmf-native.jar!/" />
+      <root url="jar://D:/was-in-C/TP_RTP88/TP_RTP/dist/lib/jmf.jar!/" />
+      <root url="jar://D:/was-in-C/TP_RTP88/TP_RTP/dist/lib/sound.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
